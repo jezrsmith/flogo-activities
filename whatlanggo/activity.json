@@ -1,0 +1,26 @@
+{
+  "name": "whatlanggo",
+  "type": "flogo:activity",
+  "ref": "github.com/jezrsmith/flogo-contrib/activity/whatlanggo",
+  "version": "0.0.1",
+  "title": "Detect Language",
+  "description": "Detects Language and Script for a given phrase",
+  "homepage": "https://github.com/TIBCOSoftware/flogo-contrib/tree/master/activity/counter",
+  "inputs":[
+    {
+      "name": "phrase",
+      "type": "string",
+      "required": true
+    }
+  ],
+  "outputs": [
+    {
+      "name": "language",
+      "type": "string"
+    },
+	{
+      "name": "script",
+      "type": "string"
+    }
+  ]
+}
