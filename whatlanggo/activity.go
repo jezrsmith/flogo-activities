@@ -1,4 +1,4 @@
-package counter
+package whatlanggo
 
 import (
 	"github.com/TIBCOSoftware/flogo-lib/core/activity"

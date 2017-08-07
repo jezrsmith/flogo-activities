@@ -1,11 +1,11 @@
 {
   "name": "whatlanggo",
   "type": "flogo:activity",
-  "ref": "github.com/jezrsmith/flogo-contrib/activity/whatlanggo",
+  "ref": "github.com/jezrsmith/flogo-activities/activity/whatlanggo",
   "version": "0.0.1",
   "title": "Detect Language",
   "description": "Detects Language and Script for a given phrase",
-  "homepage": "https://github.com/TIBCOSoftware/flogo-contrib/tree/master/activity/counter",
+  "homepage": "https://github.com/jezrsmith/flogo-activities/tree/master/HelloWorld",
   "inputs":[
     {
       "name": "phrase",
